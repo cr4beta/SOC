@@ -1,1 +1,9 @@
+---
+title: "How to Download Soil Organic Carbon Data from SoilGrids"
+author: "Cristhian G. Betancourt"
+date: "`r Sys.Date()`"
+---
 
+# Introduction
+
+Analysis
